@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "586350362425",
+    "project_id": "messengerapp-adb9f",
+    "storage_bucket": "messengerapp-adb9f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586350362425:android:fa439b2a438c1f13a6f2e8",
+        "android_client_info": {
+          "package_name": "com.example.messengerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc9dQcToHk2nPo6RL_YJ_kxuvIMNyV5LE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
